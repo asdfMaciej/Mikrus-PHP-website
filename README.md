@@ -1,4 +1,7 @@
 # Mikrus-PHP-website
+**It's awful, I have a newer project in which I wasn't lazy and used proper practices**    
+**pls ignore this one**     
+
 A website designed for school usage, lightweight replacement for Dropbox/Facebook, my first real one in PHP
 
 **Pros**:    
